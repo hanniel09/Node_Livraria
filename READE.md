@@ -7,6 +7,7 @@
 - Criação de server e de utilização do nodemon,
 - Utilização da Api express
 - Banco de dados não elacionais (noSQL) MongoDB
+- Utilização dos verbos Http
 
 ## Tecnologias
 
