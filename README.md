@@ -6,7 +6,7 @@
 >Conceitos aprendidos
 - Criação de server e de utilização do nodemon,
 - Utilização da Api express
-- Banco de dados não elacionais (noSQL) MongoDB
+- Banco de dados não relacionais (noSQL) MongoDB
 - Utilização dos verbos Http
 
 ## Tecnologias
